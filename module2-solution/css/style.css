@@ -10,6 +10,7 @@ body {
 h1 {
 	text-align: center;
 	font-size: 1.75em;
+	margin-bottom: 15px;
 }
 
 .title {
@@ -18,9 +19,10 @@ h1 {
 
 .row {
 	width: 100%;
+	background-color: #0022ff;
 }
 
-div>div>body {
+p {
 
 }
 
