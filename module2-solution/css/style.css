@@ -5,7 +5,11 @@ body {
 
 h1 {
 	align: center;
-	font-size: 75%;	
+	font-size: 175%;	
+}
+
+.title {
+	font-size: 125%;
 }
 
 @media (min-width: 922px) {
