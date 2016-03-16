@@ -8,11 +8,11 @@ p {
 
 h1 {
 	text-align: center;
-	font-size: 175%;
+	font-size: 1.75em;
 }
 
 .title {
-	font-size: 125%;
+	font-size: 1.25em;
 }
 
 @media (min-width: 922px) {
